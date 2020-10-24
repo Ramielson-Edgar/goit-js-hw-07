@@ -2,10 +2,10 @@
 
 const refs = {
   buttonActionRenderEl: document.querySelector(
-    '#controls  button[data-action="render"]'
+    'button[data-action="render"]'
   ),
   buttonActionDestroyEl: document.querySelector(
-    '#controls  button[data-action="destroy"]'
+    'button[data-action="destroy"]'
   ),
   input: document.querySelector("#controls input"),
   divContainerEl: document.querySelector("#boxes")

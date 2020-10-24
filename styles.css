@@ -1,24 +1,4 @@
-#gallery {
-    display: flex;
-    list-style: none;
-    padding: 40px;
-    border: 1px , gray;
-    width: 1600px;
-    height: auto;
 
-}
-
-.gallery__item {
-    width: calc((100% - 60px)/3);
-    margin-right: 30px;
-    margin-bottom: 30px;
-}
-
-.galleryimage {
-    display: block;
-    width: 100%;
-    height: auto;
-}
 
 
 #validation-input {
